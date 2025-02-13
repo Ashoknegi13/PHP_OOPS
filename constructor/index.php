@@ -21,4 +21,9 @@
   $obj2->Show();
   $obj3->Show();
   $obj4->Show();
+
+// output-      Ashok negi - 21 - Rudraprayag
+//              Rahul negi - 19 - Srinager
+//              Saurabh - 24 - Heydrabad
+//              unknown - 0 - no city
 ?>

@@ -13,4 +13,7 @@ class test{
 
 $obj = new test("Ashok negi",21);
 $obj->Show();
+
+// output-    Name is : Ashok negi
+//            age : 21
 ?>

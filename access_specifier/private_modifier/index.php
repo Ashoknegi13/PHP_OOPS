@@ -20,4 +20,8 @@ class result extends test{
 
 $obj = new result("Ankit",25);
 $obj->show();
+
+//    output-         Name is : Ankit
+//                    Age : 25
+
 ?>

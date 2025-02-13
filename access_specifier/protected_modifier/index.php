@@ -21,4 +21,7 @@ class result extends test{
 
 $obj = new result("ashok",23);
 $obj->getData();
+
+// output -  Name is : ashok
+//          age : 23
 ?>

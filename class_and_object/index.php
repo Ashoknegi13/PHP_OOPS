@@ -1,4 +1,4 @@
-<?php
+<?php                                 
   class claculation{
     public  $a,$b,$c;
 
@@ -19,6 +19,11 @@
 
   echo  $obj->Sum(). "<br>";
   echo  $obj->Sub();
+
+
+  
+  // output-  sum is : 14 
+  //         Sub is : 10
 
    
 ?>

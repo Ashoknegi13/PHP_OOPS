@@ -12,5 +12,7 @@ class childClass extends parentClass{
 
 $obj =  new childClass();
 
-$obj->calc(10,20);  // output : 30
+$obj->calc(10,20);  
+
+// output : 30
 ?>
